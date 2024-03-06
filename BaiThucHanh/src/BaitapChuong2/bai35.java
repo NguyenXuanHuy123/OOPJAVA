@@ -1,3 +1,4 @@
+package BaitapChuong2;
 import java.util.Scanner;
 
 public class bai35 {
