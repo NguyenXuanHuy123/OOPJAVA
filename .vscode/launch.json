@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "bai30",
+            "request": "launch",
+            "mainClass": "BaitapChuong2.bai30",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "Bai30",
+            "request": "launch",
+            "mainClass": "BaitapChuong2.Bai30",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "Bai30",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.Bai30",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai35",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai35",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai40",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai40",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai47",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai47",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai55",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai55",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai74",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai74",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai81",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai81",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai90",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.bai90",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "giaiphuongtrinhbac1",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.giaiphuongtrinhbac1",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "giaiphuongtrinhbac2",
+            "request": "launch",
+            "mainClass": "BaiTapChuong2.giaiphuongtrinhbac2",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "MyApp",
+            "request": "launch",
+            "mainClass": "Baitapchuong3.Baitapslide79.MyApp",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai10slide96",
+            "request": "launch",
+            "mainClass": "bai10slide96",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai11slide97",
+            "request": "launch",
+            "mainClass": "bai11slide97",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai12slide97",
+            "request": "launch",
+            "mainClass": "bai12slide97",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai1slide92",
+            "request": "launch",
+            "mainClass": "bai1slide92",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai2slide92",
+            "request": "launch",
+            "mainClass": "bai2slide92",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai3slide93",
+            "request": "launch",
+            "mainClass": "bai3slide93",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai4slide94",
+            "request": "launch",
+            "mainClass": "bai4slide94",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai5slide94",
+            "request": "launch",
+            "mainClass": "bai5slide94",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai6slide95",
+            "request": "launch",
+            "mainClass": "bai6slide95",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai7slide95",
+            "request": "launch",
+            "mainClass": "bai7slide95",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai8slide95",
+            "request": "launch",
+            "mainClass": "bai8slide95",
+            "projectName": "OOPJAVA1_c31f358"
+        },
+        {
+            "type": "java",
+            "name": "bai9slide96",
+            "request": "launch",
+            "mainClass": "bai9slide96",
+            "projectName": "OOPJAVA1_c31f358"
+        }
+    ]
+}
