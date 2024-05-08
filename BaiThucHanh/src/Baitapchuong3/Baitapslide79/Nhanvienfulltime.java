@@ -1,20 +1,25 @@
-package Baitapchuong3.Baitapslide79;
-
-import java.util.Scanner;
-
 public class Nhanvienfulltime extends Nhanvien {
-    public long soNgayLamViec;
-    public Nhanvienfulltime(){
-        chucVu = "Nhan Vien Fulltime ";
-        luong = 50000;
+    public int ngaylamthem;
+    public int loaichucvu;
+    public Nhanvienfulltime(String ten){
+       this.ten = ten;
     }
-    public void nhapSoNgay(){
-        super.nhapThongTin();
-        Scanner Sc = new Scanner(System.in);
-        System.out.println("So ngay lam viec: ");
-        soNgayLamViec = sc.nextLong();
+    public Nhanvienfulltime(String ten, int ngaylamthem){
+        this.ten = ten;
+        this.ngaylamthem = ngaylamthem;
     }
-    public void tinhLuong(){
-        luong = soNgayLamViec*luong;
+    public void setLoaiChucVu(int loaichucvu){
+        this.loaichucvu = loaichucvu;
     }
+    @Override
+    public String Loai_nhan_vien(){
+        return "Nhan vien FullTime";
+    }
+    public void tinhluong(){
+       if (loaichucvu == configs.sep){
+        Luong = configs.Luong_sep + ngaylamthem * configs.luong_lam_them_moi_ngay;
+       }else if (loaichucvu == configs.Luong_linh){
+        Luong = configs.Luong_linh + ngaylamthem * configs.luong_lam_them_moi_ngay;
+       }
+}
 }
